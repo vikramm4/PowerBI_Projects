@@ -1,0 +1,16 @@
+ Police_Dataset_Project
+
+Question1: Remove the column that only contains missing values.
+( Based on Data Cleaning)
+
+Question2: For speeding, were Men or Women stopped more often?
+(Based on Filtering and Value counts)
+
+Question3: Does Gender affect who gets searched during a stop?
+(Based on GroupBy)
+
+Question4: What is the mean stop_duration?
+(Based on the Mapping and Data-type Casting)
+
+Question5: Compare the age distributions for each violation.
+(Based on the GroupBy and Describe)
